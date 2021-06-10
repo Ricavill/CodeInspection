@@ -24,5 +24,8 @@ public final class EmailApp {
 		email.generateEmail();
 		email.showInfo();
 	}
+	private EmailApp() {
+		
+	}
 	
 }
